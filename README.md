@@ -12,6 +12,7 @@
 
 Обо мне
 ✧ в данный момент изучаю Веб-разработку: HTML, CSS, JS, C#
+<br>
 ✧ Связь со мной: Telegram, email
 
 Languages and tools

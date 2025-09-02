@@ -10,10 +10,13 @@
   </a>
 </div>
 
+<span>
+<ul>
 Обо мне
-✧ в данный момент изучаю Веб-разработку: HTML, CSS, JS, C#
-<br>
-✧ Связь со мной: Telegram, email
+<li> в данный момент изучаю Веб-разработку: HTML, CSS, JS, C# </li>
+<li> Связь со мной: Telegram, email </li>
+</ul>
+</span>
 
 Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;

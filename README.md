@@ -11,11 +11,11 @@
 </div>
 
 <span>
-<ul>
-Обо мне
-<li> в данный момент изучаю Веб-разработку: HTML, CSS, JS, C# </li>
-<li> Связь со мной: Telegram, email </li>
-</ul>
+  <ul>
+  Обо мне
+    <li> в данный момент изучаю Веб-разработку: HTML, CSS, JS, C# </li>
+    <li> Связь со мной: Telegram, email </li>
+  </ul>
 </span>
 
 Languages and tools

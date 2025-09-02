@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <h1>༒︎ Бакаев Бежан ༒︎</h1>
+  <h1> Бакаев Бежан </h1>
   <h2>Петровский колледж - 4 курс</h2>
   <h3>Web Developer</h3>
 </div>
 
 <div id="socials" align="center">
-  <a href="https://t.me/blvdesgrxve"> 
+  <a href="https://t.me/bezhannewman"> 
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
- <a href="https://www.figma.com/@blvdie"> 
+ <a href="https://www.figma.com/@bezhan"> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
  </a>
 </div>
